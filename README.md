@@ -10,6 +10,9 @@ I am using OpenCV.
 
 # Libraries Used
 argparse = pip install argparse
+
 imutils = pip install imutils
+
 time (should be included)
+
 cv2 = pip install opencv-python
